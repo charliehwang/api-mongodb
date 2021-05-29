@@ -1,0 +1,9 @@
+{
+  "remote.extensionKind": {
+      "dbaeumer.vscode-eslint": ["workspace"],
+      "mongodb.mongodb-vscode": ["workspace"],
+      "esbenp.prettier-vscode": ["workspace"],
+      "wix.vscode-import-cost": ["workspace"]
+  },
+}
+

@@ -1,2 +1,1 @@
-# api-mongodb
-API Using Express and MongoDB
+# Notes API Using Express and MongoDB
